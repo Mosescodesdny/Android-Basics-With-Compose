@@ -1,2 +1,2 @@
 # Android-Basics-With-Compose
-A repository containing practise projects from "Android Basics With Compose" course provided by developer.android.com.
+A repository containing practise projects from the course - "Android Basics With Compose" provided by developer.android.com.
